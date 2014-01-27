@@ -1,0 +1,10 @@
+.settings/
+lib_managed/
+project/
+submission/
+target/
+.classpath
+.project
+build.sbt
+*.zip
+package.scala
